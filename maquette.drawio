@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="EgdgEUtajZPawUtZQ0I8" name="Page-1">
+        <mxGraphModel dx="865" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="Header&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry width="820" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="logo laplateforme" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="20" width="310" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="nav" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="20" width="360" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
