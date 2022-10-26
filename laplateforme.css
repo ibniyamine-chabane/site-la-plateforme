@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@300&display=swap');
 
 body {
     box-sizing: border-box;
@@ -6,7 +6,7 @@ body {
     padding: 0;
     font-family: 'Roboto Slab', serif;
 }
-
+/*********************************** header ***************************************/
 header {
     height: 90px;
     /*background-color: aqua;*/
@@ -19,11 +19,11 @@ header {
     /*background-color: brown;*/
     padding: 13px 33px;
 }
-
+/*
 nav {
-    /*background-color: aquamarine;*/
+    background-color: aquamarine;
 }
-
+*/
 ul.nav-flex {
     display: flex;
     /*justify-content: space-around;*/
@@ -40,6 +40,41 @@ li {
     padding: 18px;
 }
 
- {
-    padding-bottom: 2px;
+/******************************main --> Section *********************************/
+.section-top {
+    background-color: #336699;
+    height: 759px;
+    width: 100%;
+    display: flex;
+}
+
+.img-box-section1 {
+    height: 759px;
+    /*width: 858px;*/
+    width: 50%;
+}
+
+.img-section1 {
+    height: 100%;
+    width: 100%;
+}
+
+.parent-section1-text-box {
+    /*width: 858px;*/
+    width: 50%;
+}
+
+.section1-text-box {
+    width: 65%;
+    display: flex;
+    margin: auto;
+    margin-top: 86px;
+    font-size: 25px;
+    color: white;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-weight: bold;
 }
