@@ -6,7 +6,7 @@ body {
     padding: 0;
     font-family: 'Roboto Slab', serif;
 }
-/*********************************** header ***************************************/
+/********************************* header ***************************************/
 header {
     height: 90px;
     /*background-color: aqua;*/
@@ -110,3 +110,107 @@ span {
 .center-text {
     text-align: center;
 }
+
+/*************************section middle1**************************/
+.section2-middle1 {
+    width: 100%;
+    background-color: #FBFBFE;
+    /*margin: 0;*/
+    padding-top: 1px;
+}
+
+.title-middle1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #336699;
+}
+
+.parent-box-tech {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #336699;
+    font-size: 19px;
+    padding-bottom: 30px;
+    margin-top: 82px;
+}
+
+.box-webcoding {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+    margin-left: 39px;
+    box-shadow: 0px 0px 30px #88888838;
+}
+
+.box-webcoding p {
+    padding: 40px;
+}
+
+.box-ia {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 30px #88888838;
+}
+
+.box-ia p {
+    padding: 40px;
+}
+
+.box-cybersecu {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+    margin-right: 39px;
+    box-shadow: 0px 0px 30px #88888838;
+} 
+
+.box-cybersecu p {
+    padding: 40px;
+}
+
+.img-box-section2-middle1 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.img-section2 {
+    width: 100%;
+    height: 100%;
+}
+
+.ButtonSection2 {
+	background-color:#ffc94b;
+	border-radius:42px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    text-align: center;
+    margin-left: 7%;
+}
+
+.ButtonSection2:hover {
+	background-color:#ffc94b;
+}
+
+.ButtonSection2:active {
+	position:relative;
+	top:1px;
+}
+
+.button-IA-center { /****** pour centrer le boutton IA de la section2 middle1 ***********/
+    margin-left: 15%;
+}
+
+/********************* Fin de Section2 middle 1****************/
+/********************* Début Section2 middle 2 *****************/
