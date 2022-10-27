@@ -215,6 +215,15 @@ span {
 /********************* Fin de Section2 middle 1****************/
 /********************* Début Section2 middle 2 *****************/
 
+.section2-middle2 {
+    color: #336699;
+    width: 100%;
+    background-color: #FBFBFE;
+    /*margin: 0;*/
+    padding-top: 1px;
+    padding-bottom: 40px;
+}
+
 .img-box-section2-middle2 {
     width: 100px;
     height: 100px;
@@ -231,6 +240,7 @@ span {
     justify-content: center;
     background-color: #FBFBFE;
     box-shadow: 0px 0px 30px #88888838;
+    margin-top: 40px;
 }
 
 .text-box-section2-middle2 {
@@ -263,10 +273,4 @@ span {
 	top:1px;
 }
 
-.section2-middle2 {
-    color: #336699;
-    width: 100%;
-    background-color: #FBFBFE;
-    /*margin: 0;*/
-    padding-top: 1px;
-}
+
