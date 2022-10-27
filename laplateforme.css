@@ -110,3 +110,71 @@ span {
 .center-text {
     text-align: center;
 }
+
+/*************************section middle1**************************/
+.section2-middle1 {
+    width: 100%;
+    background-color: #FBFBFE;
+    /*margin: 0;
+    padding: 0;*/
+}
+
+.title-middle1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: #336699;
+}
+
+.parent-box-tech {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #336699;
+    font-size: 19px;
+}
+
+.box-webcoding {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+    margin-left: 39px;
+    box-shadow: rgb(177, 51, 51);
+}
+
+.box-webcoding p {
+    padding: 40px;
+}
+
+.box-ia {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+}
+
+.box-ia p {
+    padding: 40px;
+}
+
+.box-cybersecu {
+    width: 401px;
+    height: 731px;
+    background-color: #FFFFFF;
+    margin-right: 39px;
+} 
+
+.box-cybersecu p {
+    padding: 40px;
+}
+
+.img-box-section2-middle1 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.img-section2 {
+    width: 100%;
+    height: 100%;
+}
