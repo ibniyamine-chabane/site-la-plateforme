@@ -115,8 +115,8 @@ span {
 .section2-middle1 {
     width: 100%;
     background-color: #FBFBFE;
-    /*margin: 0;
-    padding: 0;*/
+    /*margin: 0;*/
+    padding-top: 1px;
 }
 
 .title-middle1 {
@@ -132,6 +132,8 @@ span {
     justify-content: space-around;
     color: #336699;
     font-size: 19px;
+    padding-bottom: 30px;
+    margin-top: 82px;
 }
 
 .box-webcoding {
@@ -180,3 +182,35 @@ span {
     width: 100%;
     height: 100%;
 }
+
+.ButtonSection2 {
+	background-color:#ffc94b;
+	border-radius:42px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:20px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    text-align: center;
+    margin-left: 7%;
+}
+
+.ButtonSection2:hover {
+	background-color:#ffc94b;
+}
+
+.ButtonSection2:active {
+	position:relative;
+	top:1px;
+}
+
+.button-IA-center { /****** pour centrer le boutton IA de la section2 middle1 ***********/
+    margin-left: 15%;
+}
+
+/********************* Fin de Section2 middle 1****************/
+/********************* Début Section2 middle 2 ******************/
