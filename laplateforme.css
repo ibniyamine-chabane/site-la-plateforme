@@ -273,3 +273,28 @@ span {
 	top:1px;
 }
 
+/*******************Section3*****************************/
+.section3 {
+    background-color: #FFA000;
+    height: 615px;
+    color: white;
+    padding-top: 36px;
+}
+
+.center-text-section3 {
+    font-size: 27px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    width: 80%;
+}
+
+.center-text-section3 p {
+    font-size: 18px;
+}
+
+.box-video {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 58px;
+}
