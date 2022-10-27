@@ -24,7 +24,7 @@ nav {
     background-color: aquamarine;
 }
 */
-ul.nav-flex {
+.nav-flex {
     display: flex;
     /*justify-content: space-around;*/
     /*font-size: 12px;*/
@@ -297,4 +297,63 @@ span {
     display: flex;
     justify-content: space-around;
     margin-top: 58px;
+}
+
+/***********************Footer************************/
+footer {
+    width: 100%;
+    background-color: #313131;
+    /*display: flex;
+    justify-content: space-around;*/
+    color: white;
+    /*padding-bottom: 11px;*/
+}
+
+footer ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+footer a {
+    color: white;
+}
+
+.box-footer-content {
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 63px;
+}
+
+footer li {
+    padding: 0px;
+}
+
+.box-footer-logo {
+   width: 336px; 
+   height: 60px;
+}
+
+.plateforme {
+    width: 295px;
+    height: 329px;
+    background-color: #5cbf2a;
+}
+
+.formation {
+    width: 295px;
+    height: 198px;
+    background-color: #ffc94b;
+}
+
+.informations {
+    background-color: #FF2063;
+    width: 295px;
+    height: 328px;
+}
+
+.end-footer {
+    width: 100%;
+    height: 47px;
+    background-color: black;
 }
