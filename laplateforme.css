@@ -337,11 +337,21 @@ footer li {
 
 }
 
-.fb-icon {
-    font-family: "Font Awesome 6 Free";
-    font-weight: 800;
-    content: "\f082";
+.flex-logo-media-social {
+    display: flex;
 }
+
+.flex-logo-media-social li {
+    padding-left: 8px;
+}
+
+/*
+.fb-icon::after {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 600;
+    content: "\f082";    
+}*/
+
 
 .box-footer-logo {
    width: 336px; 
@@ -351,17 +361,17 @@ footer li {
 .plateforme {
     width: 295px;
     height: 329px;
-    background-color: #5cbf2a;
+/*    background-color: #5cbf2a;*/
 }
 
 .formation {
     width: 295px;
     height: 198px;
-    background-color: #ffc94b;
+/*    background-color: #ffc94b;*/
 }
 
 .informations {
-    background-color: #FF2063;
+/*    background-color: #FF2063;*/
     width: 295px;
     height: 328px;
 }
@@ -387,11 +397,11 @@ footer li {
 }
 .button-contact:hover {
 	background-color:transparent;
-    border: none;
+    border-color: transparent;
 }
 .button-contact:active {
 	/*position:relative;*/
-	top:1px;
+	/*top:1px;*/
 }
 /*******************mention légale du footer**********************/
 .end-footer {
