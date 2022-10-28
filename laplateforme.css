@@ -323,10 +323,24 @@ footer a {
     display: flex;
     justify-content: space-around;
     padding-top: 63px;
+    padding-bottom: 65px;
 }
 
 footer li {
     padding: 0px;
+    padding-top: 12px;
+}
+
+.box-plateforme {
+    margin-left: 55px;
+    padding-top: 50px
+
+}
+
+.fb-icon {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 800;
+    content: "\f082";
 }
 
 .box-footer-logo {
@@ -352,8 +366,58 @@ footer li {
     height: 328px;
 }
 
+.box-image-info {
+    width: 162px;
+    height: auto;
+    padding-top: 40px;
+}
+
+.button-contact {
+	background-color:transparent;
+	border-radius:5px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:13px 40px;
+	text-decoration:none;
+}
+.button-contact:hover {
+	background-color:transparent;
+    border: none;
+}
+.button-contact:active {
+	/*position:relative;*/
+	top:1px;
+}
+/*******************mention légale du footer**********************/
 .end-footer {
     width: 100%;
     height: 47px;
     background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.legal-mention {
+    margin-left: 58px;
+}
+
+.legal-mention p {
+    margin-top: 13px;
+}
+
+.box-social-media-endF {
+    width: 135px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    margin-right: 50px;
+}
+
+h4 {
+    font-size: 24px;
 }
